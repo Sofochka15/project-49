@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+}
+.text{
+    color: red;
+}
+#head1{
+    color: blue;
+}
+#head2{
+    color: darkgreen;
+}
